@@ -1,5 +1,6 @@
 def my_superfunction():
     print('What an awesome print!')
+    print('After third Branch')
 
 
 def main():
